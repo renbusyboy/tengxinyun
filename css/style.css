@@ -1,0 +1,25 @@
+body{font-family: "微软雅黑"}
+.clear{clear:both;}
+.t-logo{float:left;}
+.t-logo b{color:#fff;font-size:18px;position:relative;top:3px;left:3px;	/*text-shadow:1px 1px 1px #eee;*/}
+.t-logo img{width:100px;margin-top:5px;}
+.headerWarp{width:100%;height:auto;position: fixed;left:0;top:0;z-index:9999;}
+.header{/*width:100%;height:60px;background:rgba(0,0,0,0.8);color:#fff;*/}
+.header .nav{float:right;}
+.header .nav a{font-size:16px;color:#fff;}
+.navbar-default .navbar-nav>li>a:active{color:#eee;}
+.header a{line-height: 60px}
+.banner{width:100%;}
+.container .row{margin-bottom:20px;padding-left:10px;}
+.container  h3{text-align:center;padding:10px 0 30px 0;}
+.container .row div{margin-bottom:10px;text-align:center;}
+.footer{width:100%;height:auto;background:#666;color:#fff;}
+.footer h4{padding:10px 0 20px 0;}
+.footer h2 span{-webkit-transition:all 0.5s;background: url(../images/tle-icon.png) no-repeat center center;vertical-align:middle;display: inline-block;margin-right:20px;width:34px;height:34px;border:2px solid #fff;border-radius:50%;}
+.footer h2 span:hover{background:url(../images/tle-icon.png) no-repeat center center #3da1e9;-webkit-transform: rotate(180deg);}
+.footer img{width:auto;}
+.img-responsive{display: inline-block;}
+.navbar-default{background:rgba(0,0,0,0.6);}
+.navbar-default .navbar-nav>li>a{color:#fff;}
+.navbar-default .navbar-nav>li>a:hover{color:#eee;}
+
